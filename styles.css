@@ -50,7 +50,7 @@ nav ul li a {
 }
 
 #hero {
-  background-image: url('https://placekitten.com/1200/400'); /* Placeholder image for meme vibe */
+  background-image: url('hero.jpg');
   background-size: cover;
   color: white;
   text-align: center;
