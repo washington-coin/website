@@ -59,7 +59,13 @@ nav ul li a {
 
 #hero .hero-content h2 {
   font-size: 3rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+#hero .hero-content p {
+  padding: 2rem;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
 .cta-button {
